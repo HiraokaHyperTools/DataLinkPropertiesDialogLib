@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <license type="file">LICENSE</license>
+    <projectUrl>https://github.com/HiraokaHyperTools/DataLinkPropertiesDialogLib</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>First release.</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>DataLinkProperties</tags>
+  </metadata>
+  <files>
+    <file src="LICENSE" />
+  </files>
+</package>
