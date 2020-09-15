@@ -1,6 +1,6 @@
-﻿# DataLinkPropertiesDialogLib
+# DataLinkPropertiesDialogLib
 
-Display `Data Link Properties` dialog (.NET Framework 2.0 and later):
+Display `Data Link Properties` dialog using `MSDASC.DataLinks.PromptNew` / `MSDASC.DataLinks.PromptEdit`:
 
 ![Data Link Properties](images/dataLinkProperties_providers.png)
 
